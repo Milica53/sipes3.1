@@ -1,0 +1,22 @@
+body{
+    background: #080202;
+ }
+ #productos{
+     height: 50vh;
+     overflow-y: scroll;
+ }
+ #total{
+     font-weight: bold;
+     font-size: 15px;
+ }
+ 
+ .container h1{
+     color: white;
+ }
+ 
+ .container label{
+     color: white;
+ }
+     #total{
+     color: white;
+ }
